@@ -13,6 +13,6 @@ git clone https://github.com/Mshriver2/PasswordGen.git
 cd PasswordGen/
 ```
 ## TODO
-* Create check to make sure the password length is not blank
-* Create check to make sure at least one checkbox is checked
-* Allow use of a specific word to be used in the password
+* ~~Create check to make sure the password length is not blank~~
+* ~~Create check to make sure at least one checkbox is checked~~
+* ~~Allow use of a specific word to be used in the password~~
